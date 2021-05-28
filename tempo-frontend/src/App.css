@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.info-cidade {
+  margin-top: 100px;
+  padding: 20px;
+  text-align: center;
+}
+
+.cityInfo {
+  margin: 20px;
+  text-align: center;
+}
+
+.buttonChangeType{
+  float: right;
+  margin: 10px;
+  color: black;
+}
+
+.cardData {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
